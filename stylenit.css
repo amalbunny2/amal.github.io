@@ -1,0 +1,26 @@
+
+h1
+{
+	font-size:34px;
+	color:#78B316;
+}
+.pen a
+{
+	padding:3px;
+	text-decoration:none;
+	border:1px solid black;
+}
+body
+{
+	background-image:url(book1.jpg);
+	background-position:center;
+	background-size:cover;
+}
+h2
+{
+	color:#FE2C10;
+}
+.header
+{
+	margin:15px;
+}
